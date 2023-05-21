@@ -8,12 +8,6 @@
         "env": []
     },
     {
-        "id": "6912d23e48f7b98f",
-        "type": "global-config",
-        "name": "global-config",
-        "env": []
-    },
-    {
         "id": "9bd0cf676d0b0f18",
         "type": "ui_tab",
         "name": "画像認識アプリケーション",
