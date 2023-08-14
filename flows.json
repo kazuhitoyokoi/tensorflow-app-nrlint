@@ -150,7 +150,7 @@
         "format": "{{msg.payload}}",
         "layout": "row-spread",
         "className": "",
-        "x": 370,
+        "x": 390,
         "y": 100,
         "wires": []
     },
@@ -196,7 +196,7 @@
         "showImage": "2",
         "mirror": true,
         "format": "png",
-        "x": 380,
+        "x": 400,
         "y": 180,
         "wires": [
             [
