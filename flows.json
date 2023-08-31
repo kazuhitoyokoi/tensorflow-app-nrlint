@@ -196,7 +196,7 @@
         "showImage": "2",
         "mirror": true,
         "format": "png",
-        "x": 400,
+        "x": 420,
         "y": 180,
         "wires": [
             [
