@@ -158,7 +158,7 @@
         "id": "b79c76e26856b0ac",
         "type": "change",
         "z": "cdc0d052595d2bb2",
-        "name": "日本語のノード名",
+        "name": "English name",
         "rules": [
             {
                 "t": "set",
@@ -173,7 +173,7 @@
         "from": "",
         "to": "",
         "reg": false,
-        "x": 230,
+        "x": 220,
         "y": 180,
         "wires": [
             [
