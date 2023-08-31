@@ -6,7 +6,7 @@ module.exports = {
         "align-to-grid": true,
         "max-flow-size": true,
         "no-duplicate-http-in-urls": true,
-        "no-loops": "off",
+        "no-loops": true,
         "no-overlapping-nodes": true,
         "no-unconnected-http-nodes": true,
         "no-unnamed-functions": true,
